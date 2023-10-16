@@ -2,9 +2,9 @@ Based on QA perspective, the CEO's approach towards DevOps implementation is app
 
 DevOps is not a one-size-fits-all solution. Based on specific needs and culture of the organization, the topic of DevOps implementation should be approached differently. The QA team should be involved in the planning process to ensure that their needs and concerns are taken into account.
 
-DevOps is not just about tools. While tools can help to automate and streamline tasks, they are not a substitute for a cultural shift towards collaboration and shared responsibility. It is important to create an environment where the QA team feels comfortable working closely with developers and operations staff.
+DevOps requires a cultural shift towards collaboration and shared responsibility, which cannot be substituted through implementation of new tools. Tools can only help to automate and streamline tasks. It is important to create a cohesive environment where the QA team, developers and operations staff can all work comfortably in.
 
-Here are some specific things that the QA team can do to fit in with the DevOps team:
+Some things that QA team can act on in order to fit into the DevOps team:
 
 **Table of Contents**
 
