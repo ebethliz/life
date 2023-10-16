@@ -31,7 +31,7 @@ Here are some additional tips for the QA team to fit in with the DevOps team:
 
 Adopt a DevOps mindset. This means thinking about testing as an integrated part of the software development lifecycle, rather than a separate activity that happens at the end.
 
-Be proactive and communicative. The QA team should be proactive in identifying and addressing potential risks. They should also be communicative with developers and operations staff about their findings and recommendations.
+Be proactive and communicative. The QA team should proactively identify and resolve potential risks while also sharing their findings and recommendations with developers and operations staff.
 
 Be willing to learn new things. The QA team should be open to learning new tools and technologies. They should also be willing to adapt their testing processes to the needs of the DevOps team.
 
