@@ -12,7 +12,7 @@ Collaborate with developers and operations staff. The QA team should work closel
 
 Automate test cases. Automation is a key component of DevOps. The QA team should automate as many test cases as possible to free up time for more exploratory testing and other value-added activities.
 
-Provide feedback and suggestions. The QA team should be proactive in providing feedback and suggestions to the DevOps team. The QA team can also help to identify and mitigate risks.
+Provide feedback and suggestions. The QA team should be proactive in providing feedback and suggestions to the DevOps team. The QA team can also help to identify and mitigate risks. There seems to be be a disconnect, if no guidance is provided from the top on the framework to adopt etc, it might end up in a situation where the existing team's preferred tools conflict with the choice made by the DevOps Teams. 
 
 Overall, the CEO's approach to implementing DevOps is appropriate in principle. However, it is important to involve the QA team in the planning process and to create an environment where the QA team feels comfortable working closely with developers and operations staff.
 
