@@ -26,3 +26,4 @@ Be willing to learn new things. The QA team should be open to learning new tools
 
 By doing these things, the QA team can be a vital role in making sure DevOps works well.
   
+![image](https://github.com/ebethliz/life/assets/145418240/e31d3851-e1f3-45bc-85fe-a722c00f05bc)
