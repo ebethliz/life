@@ -6,11 +6,18 @@ DevOps is not just about tools. While tools can help to automate and streamline 
 
 Here are some specific things that the QA team can do to fit in with the DevOps team:
 
+**Table of Contents**
+
+[TOCM]
+
+### Edited by Jay
 Become experts in DevOps principles and practices. The QA team should take the time to learn about DevOps and how it can be used to improve their testing processes. There are many resources available online and in libraries.
 
 Collaborate with developers and operations staff. The QA team should work closely with developers and operations staff to understand the needs of the business and the challenges of delivering high-quality software. The QA team should also be involved in the development and implementation of DevOps tools and processes.
 
 Automate test cases. Automation is a key component of DevOps. The QA team should automate as many test cases as possible to free up time for more exploratory testing and other value-added activities.
+
+----
 
 Provide feedback and suggestions. The QA team should be proactive in providing feedback and suggestions to the DevOps team. The QA team can also help to identify and mitigate risks.
 
