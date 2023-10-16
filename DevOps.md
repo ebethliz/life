@@ -35,6 +35,6 @@ Be proactive and communicative. The QA team should proactively identify and reso
 
 Be willing to learn new things. The QA team should be open to learning new tools and technologies. They should also be willing to adapt their testing processes to the needs of the DevOps team.
 
-By following these tips, the QA team can play a vital role in the successful implementation of DevOps.
+By doing these things, the QA team can be a vital role in making sure DevOps works well.
   
 
